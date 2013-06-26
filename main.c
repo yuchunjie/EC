@@ -1,0 +1,7 @@
+oid main()
+{
+pris 
+
+
+
+
