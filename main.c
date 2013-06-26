@@ -1,7 +1,5 @@
-oid main()
+void main(void)
 {
-pris 
-
-
-
-
+	printf("Hello World");
+	printf("MinGW Hello world");
+}	
