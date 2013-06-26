@@ -1,3 +1,3 @@
 EC
 ==
-Development first initial
+master init
